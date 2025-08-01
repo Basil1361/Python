@@ -1,5 +1,4 @@
 from turtle import Turtle, Screen
-<<<<<<< HEAD
 
 def main():
     screen = Screen()
@@ -10,7 +9,6 @@ def main():
 
 
 main()
-=======
 import random
 
 def main():
@@ -43,4 +41,3 @@ def main():
     screen.mainloop()
     
 main()
->>>>>>> a91243d (Update)
