@@ -1,2 +1,2 @@
 
-prime()
+prime() # pyright: ignore[reportUndefinedVariable]
